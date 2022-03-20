@@ -28,8 +28,8 @@
     <ul>
       <li> Snapshots , videos , .. [ to build bug report ] </li>
       <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
-      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
-      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
+      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/2.PNG"> </li>
+      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/3.PNG"> </li>
      </ul>
   
   <li> When Test Run </li>
