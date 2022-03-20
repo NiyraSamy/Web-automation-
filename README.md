@@ -27,6 +27,9 @@
   <li> Test Report </li>
     <ul>
       <li> Snapshots , videos , .. [ to build bug report ] </li>
+      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
+      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
+      <li> <img src="https://raw.githubusercontent.com/NiyraSamy/Web-automation-/main/TestReport/1.PNG"> </li>
      </ul>
   
   <li> When Test Run </li>
@@ -38,4 +41,4 @@
 ```
 >> You can find the DEMO of the project ()
 ```
-![Test Image 7](file:///E:/ITI%20Matrials/Graduation%20Projects/Web%20Automation%20%20Project%20-%20[Niyra%20Samy%20-%20Nagwa%20Ebrahem%20-%20Mohamed%20Abdelghfar]/Test%20Report/index1.html)
+
