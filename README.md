@@ -7,10 +7,10 @@
 [ Steps ] : 
           1- Obtained element objects by :
               - Web element locator (selector) [ID - Name - Class name - CSS selector - XPath ]
-                  - Find elements
+                  - Find elements.
                   - Query that finds and returns specific elements from the DOM.
-          2- Interact with them
-          3- TestNG Assertions
+          2- Interact with them.
+          3- TestNG Assertions.
 ```
 _________________________________________________________________________________________________________
 <ul type = "square">
